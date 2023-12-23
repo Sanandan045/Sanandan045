@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sanandan200" target="blank"><img src="https://img.shields.io/twitter/follow/sanandan200?logo=twitter&style=for-the-badge" alt="sanandan200" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **JavaScript ,CSS , Tailwind CSS**
+- 💬 Ask me about **Flutter,JavaScript ,CSS , Tailwind CSS**
 
 - 📫 How to reach me **sanandan200@gmail.com**
 
